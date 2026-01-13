@@ -33,5 +33,5 @@ The simulation successfully reproduced the formation of excitonic peaks in the a
 ## 🛠️ Tools Used
 *   **C++ / MPI / OpenMP** — Core simulation logic.
 *   **Python (NumPy, Matplotlib)** — Data post-processing and visualization.
-*   **Linux (Arch/CentOS)** — Cluster environment configuration.
+*   **Linux (Debian)** — Cluster environment configuration.
 
