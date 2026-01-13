@@ -28,7 +28,7 @@ The simulation successfully reproduced the formation of excitonic peaks in the a
 *   Scaling: Achieved near-linear speedup on the university cluster (up to X nodes).
 *   Physics: Demonstrated that dielectric screening ($r_0$, $\varepsilon$) significantly shifts the exciton binding energy (by ~0.5–1 eV).
 
-![Results Visualization](results/spectra_comparison.png)
+![Results Visualization](results/spectra_comparison.jpg)
 
 ## 🛠️ Tools Used
 *   **C++ / MPI / OpenMP** — Core simulation logic.
